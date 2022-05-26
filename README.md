@@ -1,4 +1,4 @@
-# JSP- 첫걸음
+# <h1 style = "color = deepsktblue">JSP- 첫걸음
 
 <H1> ex1 </H1>
 
@@ -7,7 +7,7 @@
 
 <P>지역변수와 전역변수의 차이점을 알아보았음.</p>
   
-  
+<H1> ex1 </H1>
 
 
 
