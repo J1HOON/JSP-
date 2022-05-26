@@ -1,9 +1,5 @@
 # <h1 style = "color : blue">JSP- 첫걸음 <h1>
-<style>
-p {
-  color: #26b72b;
-}
-</style>
+
 <H2> ex1 </H2>
 
 <p> 출력시 나오는 화면 </p>
