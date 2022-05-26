@@ -10,7 +10,7 @@
 <H1> ex2 </H1>
 
   <p> 출력시 나오는 화면 </p>
-< img src = "https://user-images.githubusercontent.com/102014376/170396484-eafc9480-dee8-43b2-9b84-c7d6cc0796fa.png">
+<img src = "https://user-images.githubusercontent.com/102014376/170396484-eafc9480-dee8-43b2-9b84-c7d6cc0796fa.png">
 
 
 
