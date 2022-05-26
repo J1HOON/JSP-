@@ -1,11 +1,6 @@
 # <h1 style = "color : blue;">JSP- 첫걸음 <h1>
 
-  # This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logocolor=white)
 <H2> ex1 </H2>
   <span style=color="yellow"><p><b> 출력시 나오는 화면 </p></span>
 <img src = "https://user-images.githubusercontent.com/102014376/170395547-2acea30d-8c9b-4384-860f-640320ea59d8.png">
