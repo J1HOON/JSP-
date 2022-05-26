@@ -1,4 +1,4 @@
-# <h1 style = "color : blue;">JSP- 첫걸음 <h1>
+# JSP- 첫걸음 
 
 
 <H2> ex1 </H2>
