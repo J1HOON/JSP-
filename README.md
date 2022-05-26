@@ -2,13 +2,6 @@
 
 
 <H2> ex1 </H2>
-  <span style="color:red">
-
-빨강 글씨
-
-Red Font
-
-</span>
   <span style=color="yellow"><p><b> 출력시 나오는 화면 </p></span>
 <img src = "https://user-images.githubusercontent.com/102014376/170395547-2acea30d-8c9b-4384-860f-640320ea59d8.png">
 
