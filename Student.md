@@ -1,5 +1,10 @@
 # JSP- 첫걸음 
 
+<h2>JSP 정의</h2>
+<img src = "https://user-images.githubusercontent.com/102014376/170403793-8daa08f7-4703-4d02-843a-8532b7b0b50e.png">
+
+
+
 
 <H2> ex1 </H2>
   <span style=color="yellow"><p><b> 출력시 나오는 화면 </p></span>
